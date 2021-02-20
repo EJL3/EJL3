@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com
 - ⚡ Fun fact: Love gaming and a Martial artist too
-
+![f0f0d932d6e39c7af5aa305cbd8da735](https://user-images.githubusercontent.com/73348960/108604584-48fb1500-73c8-11eb-9a4e-1e6afa1759bc.gif)
 ### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE)
