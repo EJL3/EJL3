@@ -1,7 +1,7 @@
 Hello I'm Riz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_uza._)
+(https://img.shields.io/badge/-@_uza._-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_uza._)
 
 
 - 🤔 I’m looking for help with App development
@@ -16,7 +16,6 @@ Hello I'm Riz <img src="https://user-images.githubusercontent.com/1303154/886776
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE)
 
 <details>
-<summary>
 
 
 
