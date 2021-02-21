@@ -9,7 +9,7 @@
 - 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com
-- ⚡ Fun fact: Love gaming and a Martial artist too
+- ⚡ Fun fact: Love gaming, Anime boy and a Martial artist too
 
 ### 🛠️Tech Stack:
 
