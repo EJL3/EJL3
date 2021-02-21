@@ -3,13 +3,20 @@
 
 ![Frustrated_programmer](https://user-images.githubusercontent.com/73348960/108604758-51078480-73c9-11eb-9955-9bc728ed3f54.gif)
 
-
+### Abt Me
 
 [![Mail Badge](https://img.shields.io/badge/-@_uza._-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_uza._)
 - 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com
 - ⚡ Fun fact: Love gaming and a Martial artist too
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### Profile Visits 
 
