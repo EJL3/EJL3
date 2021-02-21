@@ -2,7 +2,7 @@
 
 
 ![Frustrated_programmer](https://user-images.githubusercontent.com/73348960/108604758-51078480-73c9-11eb-9955-9bc728ed3f54.gif)
-![133b22e750c8111d56b0422d2146a1ce](https://user-images.githubusercontent.com/73348960/108616586-0d903300-7428-11eb-963e-f543c0728d7e.gif/line_height=40)
+
 
 ### 📌About Me:
 
