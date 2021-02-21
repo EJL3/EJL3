@@ -20,11 +20,11 @@
 
 ### 👣Profile Visits:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE&theme=dracula)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE&theme=dracula,prs)
 
 
 ### 🎓Github Stats:
 
-![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
+![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby,prs)
  
 
