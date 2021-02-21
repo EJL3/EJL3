@@ -19,6 +19,6 @@
 ### Github Stats
 
 ![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEn0CidE&count_private=true&theme=dracula">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEn0CidE&count_private=true&theme=dracula&line_height=50">
 
 
