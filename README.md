@@ -25,6 +25,6 @@
 
 ### Github Stats
 
-![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)
+![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
  
 
