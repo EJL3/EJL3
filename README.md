@@ -1,8 +1,6 @@
 ### HΞLLФ I'M ЯIZ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-
-![Frustrated_programmer](https://user-images.githubusercontent.com/73348960/108604758-51078480-73c9-11eb-9955-9bc728ed3f54.gif/line_height=50)
-![giphy](https://user-images.githubusercontent.com/73348960/108616655-cfdfda00-7428-11eb-99b0-4a54a0cef424.gif)
+![125e58c0db99676e8e5bdcf37daad6a2](https://user-images.githubusercontent.com/73348960/108616734-ab383200-7429-11eb-9de3-c9c116d9fe78.gif)
 
 ### 📌About Me:
 
