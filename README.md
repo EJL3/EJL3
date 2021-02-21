@@ -20,7 +20,7 @@
 
 ### 👣Profile Visits:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE&show_icons=true%theme=dracula)
 
 
 ### 🎓Github Stats:
