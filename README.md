@@ -21,7 +21,7 @@
 ### 👣Profile Visits:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE)
-<img src="https://user-images.githubusercontent.com/73348960/108745603-ba67ce80-7554-11eb-8be8-1089870b1af1.gif">
+<p align='right'><img src="https://user-images.githubusercontent.com/73348960/108745603-ba67ce80-7554-11eb-8be8-1089870b1af1.gif"></p>
 
 
 ### 🎓Github Stats:
