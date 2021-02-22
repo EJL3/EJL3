@@ -1,10 +1,11 @@
 ### <h1 align='center'> HΞLLФ I'M ЯIZ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<a align='right'> ![125e58c0db99676e8e5bdcf37daad6a2](https://user-images.githubusercontent.com/73348960/108616734-ab383200-7429-11eb-9de3-c9c116d9fe78.gif) </a>
+
 
 ### 📌About Me:
 
 [![Mail Badge](https://img.shields.io/badge/-@_uza._-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_uza._)
+
 - 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com
