@@ -3,7 +3,7 @@
 
 ### 📌About Me:
 
--  I'm a 18 yr old brain dead.
+- 🤪 I'm a 18 yr old brain dead.
 - 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com, [![Mail Badge](https://img.shields.io/badge/-@_uza._-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_uza._)
