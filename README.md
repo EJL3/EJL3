@@ -33,4 +33,4 @@
 <p align=center>
   <img src="https://badges.pufler.dev/visits/XEn0CidE/XEn0CidE?color=black&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=XEn0CidE" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXEn0CidE&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
