@@ -27,10 +27,10 @@
 
 ![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
  
-  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 <p align=center>
-  <img src="https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=shiryel" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
+  <img src="https://badges.pufler.dev/visits/XEn0CidE/XEn0CidE?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=XEn0CidE" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXEn0CidE&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
