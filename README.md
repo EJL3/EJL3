@@ -30,7 +30,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
-<p align=center>
+
   <img src="https://badges.pufler.dev/visits/XEn0CidE/XEn0CidE?color=black&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=XEn0CidE" />
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
