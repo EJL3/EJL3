@@ -7,7 +7,7 @@
 - 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤔 I’m looking for help with App development
 - 📫 How to reach me: rizwrahim@gmail.com, [![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/_uza._)
-- ⚡ Fun fact: Gamer, Gear head, Anime boy and a Martial artist too
+- ⚡ Avocation: Gamer, Gear head, Anime boy and a Martial artist too
 
 ### 🛠️Tech Stack:
 
