@@ -1,6 +1,5 @@
 ### <h1 align='center'> HΞLLФ I'M ЯIZ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-
-
+![fav](https://user-images.githubusercontent.com/73348960/108745100-2433a880-7554-11eb-9cf0-8f8b94e415ab.gif)
 
 ### 📌About Me:
 
