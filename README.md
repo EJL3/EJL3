@@ -28,9 +28,6 @@
 ![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
  
   <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
 
 
-  <img src="https://badges.pufler.dev/visits/XEn0CidE/XEn0CidE?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=XEn0CidE" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+ 
