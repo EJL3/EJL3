@@ -27,7 +27,7 @@
 
 ![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
  
-  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 
  
