@@ -19,7 +19,7 @@
 
 ### 👣Profile Visits:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XEn0CidE.XEn0CidE&color=00cf00)
 
 <p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
@@ -27,7 +27,7 @@
 
 ![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=contribs,prs)
  
-  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B width=100 height=100" />
 
 
  
