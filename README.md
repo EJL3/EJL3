@@ -4,8 +4,8 @@
 ### 📌About Me:
 
 - 🤪 18 yr old brain dead.
-- 📚 I'm currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
-- 🤔 I’m looking for help with App development
+- 📚 Currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
+- 🤓 Help me grow with valuable advices
 - 📫 Text me: [![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/_uza._)
 - ⚡ Avocation: Gamer, Gear head, Anime boy and a Martial artist too
 
