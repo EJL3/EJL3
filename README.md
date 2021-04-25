@@ -8,7 +8,7 @@
 - 🤓 Help me grow with valuable advices
 - 📫 Follow me:-
 [![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/_uza._)
-[![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
+[![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=flat&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
 - ⚡ Avocation: Gamer, Gear head, Anime boy and a Martial artist too
 
 ### 🛠️Tech Stack:
