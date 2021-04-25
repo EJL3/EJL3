@@ -25,7 +25,7 @@
 
 ### 🎓Github Stats:
 
-![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby&hide=prs)
+![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=great-gatsby)
  
   <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
