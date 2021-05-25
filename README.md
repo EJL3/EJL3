@@ -7,7 +7,8 @@
 - 📚 Currently learning Ai, Gamedev, Webdev, Appdev and a lil on Ethical hacking
 - 🤓 Help me grow with valuable advices
 - 📫 Follow me:-
-[![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/_uza._)
+[![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/uza._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://LinkedIn.com/rizwan-rahim-b858a4212)
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
 - ⚡ Avocation: Gamer, Gear head, Anime boy and a Martial artist too
 
@@ -16,6 +17,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
