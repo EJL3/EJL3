@@ -4,7 +4,7 @@
 ### 📌About Me:
 
 - 🤪 18 yr old brain dead.
-- 📚 Currently learning Ai, Gamedev, Webdev, Appdev, Ethical hacking and also a ECU-tune aspirant. 
+- 📚 Currently learning Ai, Gamedev, Webdev, Appdev, IOT, Ethical hacking and also a ECU-tune aspirant. 
 - 🤓 Help me grow with valuable advices
 - 📫 Follow me:-
 [![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/uza._)
