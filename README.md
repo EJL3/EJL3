@@ -3,14 +3,14 @@
 
 ### 📌About Me:
 
-- 🤪 18 yr old brain dead.
-- 📚 Currently learning Ai, Gamedev, Webdev, Appdev, IOT, Ethical hacking and also a ECU-tune aspirant. 
+- 🤪 18 yr'O brain dead.
+- 📚 Currently learning--> ML, Data Scince, Gamedev, Webdev, Appdev, IOT, Ethical Hacking and also a ECU-tune aspirant. 
 - 🤓 Help me grow with valuable advices
 - 📫 Follow me:-
 [![Mail Badge](https://img.shields.io/badge/-@uza.-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/uza._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinkedIn.com/in/rizwan-rahim-b858a4212)
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
-- ⚡ Avocation: Gamer, Gear head, Anime boy and a Martial artist too
+- ⚡ Avocation: Gamer, Gear head, Anime boy, Harmonicist and a Martial artist too
 
 ### 🛠️Tech Stack:
 
