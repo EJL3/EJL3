@@ -3,7 +3,7 @@
 
 ### 📌About Me:
 
-- 🤪 18 yr'O brain dead.
+- 🤪 19 yr'O brain dead.
 - 📚 Currently learning--> ML, Data Scince, Gamedev, Webdev, Appdev, IOT, Ethical Hacking and also a ECU-tune aspirant. 
 - 🤓 Help me grow with valuable advices
 - 📫 Follow me:-
