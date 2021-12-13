@@ -37,15 +37,15 @@
 
 ### 👣Profile Visits:
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=XEn0CidE.XEn0CidE&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EJL3.EJL3&color=00cf00)
 
 <p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
 ### 🎓Github Stats:
 
-![XEn0CidE's github stats](https://github-readme-stats.vercel.app/api?username=XEn0CidE&count_private=true&show_icons=true&theme=tokyonight)
+![EJL3's github stats](https://github-readme-stats.vercel.app/api?username=EJL3&count_private=true&show_icons=true&theme=tokyonight)
  
-  <img src="https://github-profile-trophy.vercel.app/?username=XEn0CidE&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 
  
