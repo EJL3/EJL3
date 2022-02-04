@@ -47,9 +47,11 @@
 
 <p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
-### 🎓Github Stats: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+### 🎓Github Stats: 
 
 ![EJL3's github stats](https://github-readme-stats.vercel.app/api?username=EJL3&count_private=true&show_icons=true&theme=tokyonight)
+ 
+ <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
  
   <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
