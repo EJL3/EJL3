@@ -37,9 +37,9 @@
 
 ### 👣Profile Visits:
 
-<p align="top"> <img src="https://count.getloli.com/get/@EJL3?theme=rule34" alt="EJL3" srcset="" align="right"> </p>
+<p align="left"> <img src="https://count.getloli.com/get/@EJL3?theme=rule34" alt="EJL3" srcset="" align="right"> </p>
 
-<p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
+<p align="center"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
 ### 🎓Github Stats:
 
