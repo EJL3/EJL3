@@ -12,7 +12,7 @@
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
 - ⚡ Avocation: Gamer, Gear head, Anime boy, Harmonicist and a Martial artist too
 
-### 🛠️Tech Stack:
+### 🛠️Tech Stack: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,9 +50,6 @@
 ### 🎓Github Stats: 
 
 ![EJL3's github stats](https://github-readme-stats.vercel.app/api?username=EJL3&count_private=true&show_icons=true&theme=tokyonight)
- 
- <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
- 
   <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 
