@@ -37,7 +37,7 @@
 
 ### 👣Profile Visits:
 
-<img src="https://count.getloli.com/get/@EJL3?theme=juicyfresh" alt="EJL3" srcset="" align="left">
+<img src="https://count.getloli.com/get/@EJL3?theme=rule78" alt="EJL3" srcset="" align="left">
 
 </br>
 </br>
