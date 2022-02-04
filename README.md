@@ -37,7 +37,7 @@
 
 ### 👣Profile Visits:
 
-<img src="https://count.getloli.com/get/@EJL3?theme=moebooru" align="left">
+<img src="https://count.getloli.com/get/@EJL3?theme=moebooru" srcset="" align="left">
 
 </br>
 </br>
