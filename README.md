@@ -37,7 +37,7 @@
 
 ### 👣Profile Visits:
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EJL3.EJL3&color=00cf00)
+<img src="https://count.getloli.com/get/@EverythingSuckz?theme=rule34" alt="" srcset="" align="left">
 
 <p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
