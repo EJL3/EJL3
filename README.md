@@ -1,4 +1,4 @@
-### <h1 align='center'> HΞLLФ I'M ЯIZ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height = "70px" alt="hi"></h1>
+### <h1 align='center'> HΞLLФ I'M ЯIZ</h1>
 <p align='center'><img src="https://user-images.githubusercontent.com/73348960/108745603-ba67ce80-7554-11eb-8be8-1089870b1af1.gif"></p>
 
 ### 📌About Me:
@@ -12,7 +12,7 @@
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
 - ⚡ Avocation: Gamer, Gear head, Anime boy, Harmonicist and a Martial artist too
 
-### 🛠️Tech Stack: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+### 🛠️Tech Stack: 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +47,7 @@
 
 <p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
-### 🎓Github Stats: <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width = "40">
+### 🎓Github Stats: 
 
 ![EJL3's github stats](https://github-readme-stats.vercel.app/api?username=EJL3&count_private=true&show_icons=true&theme=tokyonight)
   <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
