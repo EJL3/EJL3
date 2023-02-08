@@ -3,14 +3,13 @@
 
 ### 📌About Me:
 
-- 🤪 19 yr'O brain dead.
-- 📚 Currently learning--> ML, Data Scince, Gamedev, Webdev, Appdev, IOT, Ethical Hacking and also a ECU-tune aspirant. 
-- 🤓 Help me grow with valuable advices
+- 📚 Currently learning--> ML, Data Scince, Ai, Gamedev, Webdev, IOT, Ethical Hacking and ECU remapping. 
+- 👨🏻‍🎓 Help me grow with valuable advices
+- ⚡ Avocation: Programming, Chess, Business books, Martial arts
 - 📫 Follow me:-
 [![Mail Badge](https://img.shields.io/badge/-@RIZ.-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://instagram.com/ri._.iz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinkedIn.com/in/rizwan-rahim-b858a4212)
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/xen0cide)
-- ⚡ Avocation: Gamer, Gear head, Anime boy, Harmonicist and a Martial artist too
 
 ### 🛠️Tech Stack: 
 
@@ -34,18 +33,6 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-020500.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow"/>
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-### 👣Profile Visits:
-
-<img src="https://count.getloli.com/get/@EJL3?theme=rule34" alt="" srcset="" align="left">
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<p align="left"> <img src = "https://user-images.githubusercontent.com/73348960/108746373-ae304100-7555-11eb-8de5-cb0914c347bf.gif"> </p>
 
 ### 🎓Github Stats: 
 
