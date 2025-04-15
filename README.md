@@ -37,7 +37,7 @@
 ### 🎓Github Stats: 
 
 ![EJL3's github stats](https://github-readme-stats.vercel.app/api?username=EJL3&count_private=true&show_icons=true&theme=tokyonight)
-  <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EJL3&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 
  
